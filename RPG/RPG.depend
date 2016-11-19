@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1432657454 source:f:\programowanie\cpp\sfml\rpg\main.cpp
+	<iostream>
+	"include/Map.h"
+	"include/MapSprites.h"
+	"Monster.h"
+	"Player.h"
+	"CombatText.h"
+	<ctime>
+	<vector>
+	<cstring>
+	<fstream>
+	<SFML/Audio/Music.hpp>
+
+1426944508 f:\programowanie\cpp\sfml\rpg\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426290616 f:\programowanie\cpp\sfml\rpg\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1432341562 source:f:\programowanie\cpp\sfml\rpg\src\map.cpp
+	"../include/Map.h"
+	<fstream>
+	<iostream>
+
+1432331232 source:f:\programowanie\cpp\sfml\rpg\src\mapsprites.cpp
+	"../include/MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1426941944 source:f:\programowanie\cpp\sfml\rpg\src\animatedsprite.cpp
+	"../include/AnimatedSprite.hpp"
+
+1426941838 f:\programowanie\cpp\sfml\rpg\include\animatedsprite.hpp
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/System/Vector2.hpp>
+	"Animation.h"
+
+1425851082 f:\programowanie\cpp\sfml\rpg\include\animation.h
+	<vector>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1426892496 source:f:\programowanie\cpp\sfml\rpg\src\animation.cpp
+	"../include/Animation.h"
+
+1432665312 source:f:\programowanie\cpp\sfml\rpg\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1432665284 f:\programowanie\cpp\sfml\rpg\include\player.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics/Drawable.hpp"
+	"Map.h"
+	<string>
+	<vector>
+	"Unit.h"
+	"Monster.h"
+
+1432655578 source:f:\programowanie\cpp\sfml\rpg\src\monster.cpp
+	"Monster.h"
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1431376340 f:\programowanie\cpp\sfml\rpg\include\monster.h
+	"AnimatedSprite.hpp"
+	<string>
+	"Map.h"
+	"Unit.h"
+
+1433767932 source:d:\programowanie\cpp\sfml\rpg\main.cpp
+	<iostream>
+	"include/Map.h"
+	"include/MapSprites.h"
+	"Monster.h"
+	"Player.h"
+	"CombatText.h"
+	<ctime>
+	<vector>
+	<cstring>
+	<fstream>
+	<SFML/Audio/Music.hpp>
+
+1426944508 d:\programowanie\cpp\sfml\rpg\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426290616 d:\programowanie\cpp\sfml\rpg\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1432665284 d:\programowanie\cpp\sfml\rpg\include\player.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics/Drawable.hpp"
+	"Map.h"
+	<string>
+	<vector>
+	"Unit.h"
+	"Monster.h"
+
+1426941838 d:\programowanie\cpp\sfml\rpg\include\animatedsprite.hpp
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/System/Vector2.hpp>
+	"Animation.h"
+
+1425851082 d:\programowanie\cpp\sfml\rpg\include\animation.h
+	<vector>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1431376340 d:\programowanie\cpp\sfml\rpg\include\monster.h
+	"AnimatedSprite.hpp"
+	<string>
+	"Map.h"
+	"Unit.h"
+
+1426941944 source:d:\programowanie\cpp\sfml\rpg\src\animatedsprite.cpp
+	"../include/AnimatedSprite.hpp"
+
+1426892496 source:d:\programowanie\cpp\sfml\rpg\src\animation.cpp
+	"../include/Animation.h"
+
+1432341562 source:d:\programowanie\cpp\sfml\rpg\src\map.cpp
+	"../include/Map.h"
+	<fstream>
+	<iostream>
+
+1432331232 source:d:\programowanie\cpp\sfml\rpg\src\mapsprites.cpp
+	"../include/MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1433620638 source:d:\programowanie\cpp\sfml\rpg\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1433626166 source:d:\programowanie\cpp\sfml\rpg\src\monster.cpp
+	"Monster.h"
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1432335124 d:\programowanie\cpp\sfml\rpg\include\unit.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics.hpp"
+	"CombatText.h"
+
+1433768466 source:d:\programowanie\cpp\sfml\rpg\src\unit.cpp
+	"Unit.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1430092284 source:h:\programowanie\cpp\sfml\rpg\main.cpp
+	<iostream>
+	"include/Map.h"
+	"include/MapSprites.h"
+	"Monster.h"
+	"Player.h"
+	<ctime>
+	<vector>
+
+1426944508 h:\programowanie\cpp\sfml\rpg\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426290616 h:\programowanie\cpp\sfml\rpg\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1430093368 h:\programowanie\cpp\sfml\rpg\include\monster.h
+	"AnimatedSprite.hpp"
+	<string>
+	"Map.h"
+	"Unit.h"
+
+1426941838 h:\programowanie\cpp\sfml\rpg\include\animatedsprite.hpp
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/System/Vector2.hpp>
+	"Animation.h"
+
+1425851082 h:\programowanie\cpp\sfml\rpg\include\animation.h
+	<vector>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1430093114 h:\programowanie\cpp\sfml\rpg\include\unit.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics.hpp"
+
+1426941944 source:h:\programowanie\cpp\sfml\rpg\src\animatedsprite.cpp
+	"../include/AnimatedSprite.hpp"
+
+1426892496 source:h:\programowanie\cpp\sfml\rpg\src\animation.cpp
+	"../include/Animation.h"
+
+1426945036 source:h:\programowanie\cpp\sfml\rpg\src\map.cpp
+	"../include/Map.h"
+	<fstream>
+	<iostream>
+
+1426891608 source:h:\programowanie\cpp\sfml\rpg\src\mapsprites.cpp
+	"../include/MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1430093068 source:h:\programowanie\cpp\sfml\rpg\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1429308042 h:\programowanie\cpp\sfml\rpg\include\player.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics/Drawable.hpp"
+	"Map.h"
+	<string>
+	<vector>
+	"Unit.h"
+	"Monster.h"
+
+1430093340 source:h:\programowanie\cpp\sfml\rpg\src\monster.cpp
+	"Monster.h"
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1430093340 source:h:\programowanie\cpp\sfml\rpg\src\unit.cpp
+	"Unit.h"
+	<string>
+	<iostream>
+
+1432335124 f:\programowanie\cpp\sfml\rpg\include\unit.h
+	"AnimatedSprite.hpp"
+	"SFML/Graphics.hpp"
+	"CombatText.h"
+
+1431378934 f:\programowanie\cpp\sfml\rpg\include\combattext.h
+	<SFML/Graphics.hpp>
+
+1431378988 source:f:\programowanie\cpp\sfml\rpg\src\combattext.cpp
+	"CombatText.h"
+	<string>
+
+1432678492 source:f:\programowanie\cpp\sfml\rpg\src\unit.cpp
+	"Unit.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1431378934 d:\programowanie\cpp\sfml\rpg\include\combattext.h
+	<SFML/Graphics.hpp>
+
+1431378988 source:d:\programowanie\cpp\sfml\rpg\src\combattext.cpp
+	"CombatText.h"
+	<string>
+
