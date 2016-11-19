@@ -1,0 +1,81 @@
+7
+maps/map1.txt
+24 10 0 18 4
+graphics/snake
+10 18
+graphics/snake
+18 14
+graphics/rat
+15 14
+graphics/rat
+14 10
+maps/map2.txt
+22 0 0 5 5
+graphics/snake
+10 18
+graphics/crab
+15 14
+graphics/rat
+18 14
+graphics/badger
+21 3
+graphics/crab
+18 17
+maps/map3.txt
+24 14 0 8 4
+graphics/snake
+10 18
+graphics/badger
+12 4
+graphics/skunk
+23 6
+graphics/spider
+22 15
+maps/map4.txt
+24 13 0 14 4
+graphics/orc_leader
+10 5
+graphics/scorpion
+18 14
+graphics/scorpion
+5 7
+graphics/orc_leader
+23 14
+maps/map5.txt
+24 0 0 19 4
+graphics/orc_leader
+10 5
+graphics/cultist
+18 7
+graphics/cultist
+5 7
+graphics/orc_leader
+23 2
+maps/map6.txt
+24 6 0 12 4
+graphics/mummy
+10 9
+graphics/cultist
+18 8
+graphics/mummy
+10 7
+graphics/mummy
+18 7
+maps/map7.txt
+10 9 0 9 8
+graphics/fire_mistress
+9 6
+graphics/fire_mistress
+9 12
+graphics/fire_mistress
+15 6
+graphics/fire_mistress
+15 12
+graphics/cultist
+6 3
+graphics/cultist
+6 15
+graphics/cultist
+18 3
+graphics/cultist
+18 15
