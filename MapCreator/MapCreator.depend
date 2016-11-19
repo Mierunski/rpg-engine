@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1426642498 source:d:\dysk google\cpp\sfml\mapcreator\main.cpp
+	<iostream>
+	<fstream>
+	"MapSprites.h"
+	"Map.h"
+	<string>
+	<cstring>
+
+1426642016 source:d:\dysk google\cpp\sfml\mapcreator\src\map.cpp
+	"Map.h"
+	<fstream>
+	<iostream>
+
+1426641733 d:\dysk google\cpp\sfml\mapcreator\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426337064 source:d:\dysk google\cpp\sfml\mapcreator\src\mapsprites.cpp
+	"MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1426290615 d:\dysk google\cpp\sfml\mapcreator\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1426459090 source:e:\dysk google\cpp\sfml\mapcreator\src\mapsprites.cpp
+	"MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1426290615 e:\dysk google\cpp\sfml\mapcreator\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1426532783 source:e:\dysk google\cpp\sfml\mapcreator\src\map.cpp
+	"Map.h"
+	<fstream>
+	<iostream>
+
+1426532783 e:\dysk google\cpp\sfml\mapcreator\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426546182 source:e:\dysk google\cpp\sfml\mapcreator\main.cpp
+	<iostream>
+	"MapSprites.h"
+	"Map.h"
+	<string>
+	<cstdio>
+
+1432332576 source:f:\programowanie\cpp\sfml\mapcreator\main.cpp
+	<iostream>
+	<fstream>
+	"MapSprites.h"
+	"Map.h"
+	<string>
+	<cstring>
+
+1426290616 f:\programowanie\cpp\sfml\mapcreator\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1426641734 f:\programowanie\cpp\sfml\mapcreator\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1432332178 source:f:\programowanie\cpp\sfml\mapcreator\src\map.cpp
+	"Map.h"
+	<fstream>
+	<iostream>
+
+1426337066 source:f:\programowanie\cpp\sfml\mapcreator\src\mapsprites.cpp
+	"MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
+1432332576 source:h:\programowanie\cpp\sfml\mapcreator\main.cpp
+	<iostream>
+	<fstream>
+	"MapSprites.h"
+	"Map.h"
+	<string>
+	<cstring>
+
+1426290616 h:\programowanie\cpp\sfml\mapcreator\include\mapsprites.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1426641734 h:\programowanie\cpp\sfml\mapcreator\include\map.h
+	<SFML/Graphics.hpp>
+	"MapSprites.h"
+
+1426337066 source:h:\programowanie\cpp\sfml\mapcreator\src\mapsprites.cpp
+	"MapSprites.h"
+	<fstream>
+	<cmath>
+	<iostream>
+
