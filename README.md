@@ -1,6 +1,8 @@
 # RPG Engine
 Created with C++/SFML
 
+Date: 2015-06-06
+
 # Description
 RPG Engine used to create Sashir RPG, as a final project in my OOP course.
 
